@@ -1,0 +1,29 @@
+legend{
+    font-size: 40px;
+    padding: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+input[type=text],input[type=email],input[type=text],input[type=number],select,textarea{
+    width: 150%;
+    height: 20px;
+    margin-top: 20px;
+    padding:0px;
+}
+form{
+    width: 90%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: cyan;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+
+}
+textarea{
+height: 90px;
+}
